@@ -1,0 +1,15 @@
+header#main-header {
+  width: 100%;
+  background:  #00008B;
+  font-size: 20px;
+  font-weight: robot;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  z-index: 30000
+}
+
